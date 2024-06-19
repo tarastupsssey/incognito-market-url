@@ -6,7 +6,7 @@ Incognito Market provides an friendly user experience with its simply yet intuit
 ```sh
 http://incognirnybkn24z7uxkru5f7esi7jvqw72qtnhkq3koztw4fkl5emyd.onion
 ```
-[<img src="/assets/visit-market.webp" width="200">](http://incognirnybkn24z7uxkru5f7esi7jvqw72qtnhkq3koztw4fkl5emyd.onion/)
+[<img src="/assets/visit-market.webp" width="200">](http://incognirnybkn24z7uxkru5f7esi7jvqw72qtnhkq3koztw4fkl5emyd.onion)
 
 <a href="http://incognirnybkn24z7uxkru5f7esi7jvqw72qtnhkq3koztw4fkl5emyd.onion"><img src="/assets/incognito-preview.webp" alt="image" style="max-width: 100%;"><a>
 
